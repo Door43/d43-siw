@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[siw:home|Door43 (siw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-siw|d43-siw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-siw/archive/master.zip|d43-siw.zip]]
+
+**Recent Changes**
+{{changes>ns = siw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/siw|Ethnologue data]]
+
